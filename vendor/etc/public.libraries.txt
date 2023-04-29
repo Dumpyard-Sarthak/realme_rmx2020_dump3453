@@ -1,0 +1,15 @@
+libOpenCL.so
+libvpu.so
+libion_mtk.so
+libnpu.so
+liboddi.so
+librftoolkit.so
+libnativehelpers.so
+libOppoAlgoProcess.so
+libMegviiHumBokeh-mtk.so
+libprotobuf-cpp-full.so
+libprotobuf-cpp-lite.so
+libarmnn_ndk.mtk.so
+libcmdl_ndk.mtk.so
+libstdc++.so
+libnir_neon_driver_ndk.mtk.so

@@ -1,0 +1,14 @@
+# full_oppo6769-user 10 QP1A.190711.020 68b77aba7cb33275 release-keys
+- manufacturer: realme
+- platform: mt6768mt6768
+- codename: RMX2020
+- flavor: RMX2020-userdebug
+- release: 13
+- id: AOSP.MASTER
+- incremental: eng.neolit.20230429.043717
+- tags: test-keys
+- fingerprint: realme/RMX2020/RMX2020:10/QP1A.190711.020/1651798546:user/release-keys
+- is_ab: false
+- brand: realme
+- branch: full_oppo6769-user-10-QP1A.190711.020-68b77aba7cb33275-release-keys
+- repo: realme_rmx2020_dump3453

@@ -1,0 +1,6 @@
+#line 1 "device/realme/RMX2020/sepolicy/private/property_contexts"
+persist.perf_profile u:object_r:perf_prop:s0
+perf_profile u:object_r:perf_prop:s0
+persist.cabc_profile u:object_r:cabc_prop:s0
+#line 1 "/home/sarthakroy2002/master/out/soong/.intermediates/system/sepolicy/contexts/system_ext_property_contexts/android_common/RMX2020/newline"
+

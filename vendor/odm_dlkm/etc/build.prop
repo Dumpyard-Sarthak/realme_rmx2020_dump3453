@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=realme
+ro.product.odm_dlkm.device=RMX2020
+ro.product.odm_dlkm.manufacturer=realme
+ro.product.odm_dlkm.model=RMX2020
+ro.product.odm_dlkm.name=RMX2020
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.odm_dlkm.build.date=Fri Apr 28 18:48:24 UTC 2023
+ro.odm_dlkm.build.date.utc=1682707704
+ro.odm_dlkm.build.fingerprint=realme/RMX2020/RMX2020:10/QP1A.190711.020/1651798546:user/release-keys
+ro.odm_dlkm.build.id=AOSP.MASTER
+ro.odm_dlkm.build.tags=test-keys
+ro.odm_dlkm.build.type=userdebug
+ro.odm_dlkm.build.version.incremental=eng.neolit.20230428.174610
+ro.odm_dlkm.build.version.release=13
+ro.odm_dlkm.build.version.release_or_codename=VanillaIceCream
+ro.odm_dlkm.build.version.sdk=33
+# end of file
